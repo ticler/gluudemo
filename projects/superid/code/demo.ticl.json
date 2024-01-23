@@ -1,0 +1,35 @@
+[
+  {
+    "id": "Agama-start-Flow-4835d10c-91bf-4722-bf2e-9d77dbcbb5fe",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-4835d10c-91bf-4722-bf2e-9d77dbcbb5fe",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "inRepeatBlock": false,
+      "agamaData": {
+        "id": "Agama-start-Flow-4835d10c-91bf-4722-bf2e-9d77dbcbb5fe",
+        "type": "Agama-start-Flow",
+        "displayName": "PasswordFlow",
+        "hasComment": true,
+        "comment": "",
+        "isTopLevelFlow": true,
+        "basepath": "",
+        "configParams": "{}",
+        "nodeIcon": "material-symbols:line-start-square",
+        "timeout": "",
+        "inputs": "",
+        "configs": "",
+        "flowname": "demo.ticl"
+      }
+    },
+    "position": {
+      "x": 30,
+      "y": 30
+    }
+  }
+]
