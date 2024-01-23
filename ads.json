@@ -1,1 +1,18 @@
-{}
+{
+    "superid": {
+        "projectName": "superid",
+        "description": "super id onboarding",
+        "type": "community",
+        "author": "ticler",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/ticler/gluudemo",
+        "githubUri": "https://github.com/ticler/gluudemo",
+        "license": "apache-2.0",
+        "lastUpdated": "1706014156874",
+        "tags": [
+            "demo"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
