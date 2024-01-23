@@ -13,6 +13,9 @@
             "demo"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "demo.ticl": {}
+        },
+        "name": "superid"
     }
 }
